@@ -1,4 +1,4 @@
-%自适应引导滤波模块 
+%自适应引导滤波模块
 module self_adaption(inmage,rtl,clk,size);
 
 input reg [6:0] inmage;
