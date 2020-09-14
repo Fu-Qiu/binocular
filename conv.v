@@ -1,4 +1,4 @@
-%卷积模块
+%卷积模块    kkk
 module conv(clk,row0,row1,row2,row3,row4,row5,row6,out);
 
 input [7:0] rows0[6:0];
